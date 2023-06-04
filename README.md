@@ -10,6 +10,8 @@ Make sure you have the following libraries installed:
 * joblib
 ## Data Collection
 The data used for training and testing the model is obtained from the Global Fishing Watch website. The dataset is in CSV format and contains information about vessel activities such as speed over ground, distance from shore, distance from port, time elapsed, latitude, longitude, and source.
+Global Fishing Watch website link-
+https://globalfishingwatch.org/data-download/datasets/public-training-data-v1
 ## Data Pre-processing
 The AIS (Automatic Identification System) data is pre-processed to clean and transform it into a suitable format for training the model. The pre-processing steps include:
 
